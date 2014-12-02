@@ -3,14 +3,16 @@ Feature: Log in to website
 	I want to be able to log in
 	So that I can have my settings saved
 
-	@BaseCase
+	@BaseCase @logIn
 	Scenario: Log in with correct input
 		Given the user is not logged in
-		When the user enters the username "cs1699test" and password "arctic"
+		When the user enters the username "cs1699"
+		And password "arctic"
 		Then the user should be notified he is logged in
 	
-	@BaseCase
+	@BaseCase @logIn
 	Scenario: Log in with wrong input
 		Given the user is not logged in
-		When the user enters the username "cs1699test" and password "polar"
+		When the user enters the username "cs1699" 
+		And password "polar"
 		Then the user should be notified he is not logged in

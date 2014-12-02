@@ -1,0 +1,5 @@
+Subject had problems with adding tags when uploading, with ascending descending order.
+
+Subject had problem with the toggles for Normal and Sketchy wallpapers
+
+Subject found a bug in regards to the number of uploaded items.

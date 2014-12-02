@@ -3,16 +3,16 @@ Feature: Downloading wallpapers
 	I want to be able to download any wallpaper
 	So that I can use them offline.
 
-	@BaseCase
-	Scenario: Not logged in tagging
-		Given the user is not logged in
-		And user at image "wallhaven.cc/asfadsfsdf"
-		When the user attempts to download the picture
-		Then the user should have the picture start download
+	@BaseCase @download
+	Scenario: Not signed in tagging
+		Given the user is not signed in
+		And user is at link "http://alpha.wallhaven.cc/wallpaper/114060"
+		When the user tries to get the link to file
+		Then the link should exist and the image therefore be downloadable.
 	
-	@BaseCase
-	Scenario: Logged in tagging
-		Given the user is logged in
-		And user at image "wallhaven.cc/asfadsfsdf"
-		When the user attempts to download the picture
-		Then the user should have the picture start download
+	@BaseCase @download
+	Scenario: signed in tagging
+		Given the user is signed in
+		And user is at link "http://alpha.wallhaven.cc/wallpaper/114060"
+		When the user tries to get the link to file
+		Then the link should exist and the image therefore be downloadable.
