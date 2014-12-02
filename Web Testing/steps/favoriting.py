@@ -31,7 +31,7 @@ class favoritingTest(unittest.TestCase):
 			keyWord.send_keys(Keys.RETURN)
 			assert username in browser.page_source
 		except Exception, e:
-			# cleanUpGlobals()
+			cleanUpGlobals()
 			assert False
 
 	@given(u'user is at image "{text}"')

@@ -46,7 +46,6 @@ class logInTest(unittest.TestCase):
 			login = browser.find_element_by_id('password')
 			login.send_keys(text)
 			login.send_keys(Keys.RETURN)
-			# browser.find_element_by_type("submit").click()
 		except Exception, e:
 			e
 

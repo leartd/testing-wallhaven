@@ -58,7 +58,3 @@ class scrollingTest(unittest.TestCase):
 		except Exception, e:
 			cleanUpGlobals()
 			assert False
-
-	# @when(u'the user scrolls to the last page')
-	# def step_impl(context):
-	# 	assert False	

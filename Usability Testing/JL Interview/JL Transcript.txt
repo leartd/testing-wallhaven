@@ -1,0 +1,77 @@
+Leart: Thank you for agreeing to take part in this test. We will be testing a wallpaper website called Wallhaven.cc. We won’t be testing you on what you do, but we’re just gonna try to see how the website performs under different actions. So take as long or as little as you need to get through the tasks we’ll be presenting to you.
+Leart: Additionally, this test will be audio recorded. Do I have your permission to do so?
+
+Volunteer: Sure.
+
+Leart: Okay, thank you. So, based on your previous experience with wallpaper websites, if any, what are you expecting?
+
+Volunteer: Well, I guess I haven’t had any previous experience with wallpaper websites, but I would expect some sort of galleries so you can view them, and categories to search for specific kinds of wallpapers.
+
+Leart: As we go through the next few tasks, speak anything that you have on your mind while you’re doing them, and describe what you’re doing.
+
+Leart: So on the first task, go to the latest upload page.
+
+Volunteer: [did not speak]
+
+Leart: The second task will be: You have to filter this page and show only the images that are Safe for Work, with a 16:9 aspect ratio.
+
+Volunteer: [did not speak]
+
+Leart: Third task: Sort the images in this page by views, and by ascending order, simultaneously.
+
+Volunteer: ...I forget which one’s ascending order, but…
+Leart: That’s fine.
+
+Volunteer: Okay.
+
+Leart: The fourth task will be: Now try to log in on the website.
+Leart: The credentials will be “cs1699” and the password will be “arctic”. “A-R-C-T-I-C.”
+
+Volunteer: No caps, right?
+Leart: No caps.
+
+Leart: Now that you’re logged in, try to upload one of the images in a folder that is open to you, and tag it.
+Leart: Describe what you’re doing.
+
+Volunteer: I click the Upload button at the top of the page. It says “Drop files here” so I’m gonna drag this one file here… Guess I could drag the other too. I hit the Upload button… Not exactly sure where the tagging is yet, though. I guess the Upload button’s greyed out, so I hit the Done button? [new screen]
+
+Volunteer: Okay, of course. [looking at icons on wallpaper thumbnails] This says Select… This is Preview… Not really sure what these plus/minuses are for, but… [clicks the + and - icons] Oh, okay, so I can tag multiples at the same time by just hitting plus on all the wallpapers that I want to put the particular tag on.
+
+Volunteer: Okay, so they’re both Safe For Work… [Looking through tags list] Uhh, I’d say General, since there’s no people or anime. [Not sure what to name the tag]
+Leart: You can just tag it as “test”.
+
+Volunteer: Okay, “test”. Not sure what a tag alias is… Oh, other phrases that this tag falls under. Anyway… “Location -> Cities”, the Tag Category. So you name a tag that goes under a particular category. So I have to deselect this and select the other one...
+
+Volunteer: [switches to other wallpaper] So this would be “Nature -> Landscapes”, I think… Oh, no, there are smokestacks in the background. Just for the sake of accuracy… “Location -> Other”. I’m not sure what Apply to Selection does… [tries something] Okay, well… I tagged this “test” and I tagged this “test2”, so they’re saved, I guess. Just gotta Complete. 
+
+Leart: Now try to find your upload pictures.
+
+Volunteer: All right… Should just be able to… It said it would come up on this page eventually. [after some struggling] I’m trying to find the wallpapers I just uploaded, right? It said it’d be up in a bit, I think. If I just search under “test”… or under “test2”... [more searching]
+Leart: [guiding] Can you think of any other ways to find your uploads?
+
+Volunteer: Probably under my… [chuckling, finding the Uploads section under the login name] Okay, so probably under my account, in the top right corner. [clicks on Uploads] It says I have four uploads here.
+
+Leart: That’s good. And, for the second to last test, try to find the Categories and Tags page.
+
+Volunteer: There’s “Tags” at the bottom right, [clicks it] and I just see a bunch of tags here.
+
+Leart: You’re in the correct place. Now, just log out.
+
+Volunteer: I go to the top right, hover over [the account name], and Log Out.
+
+Leart: Now that you’ve finished the tasks, and you’ve went through the website a little bit, what did you think about it? What was easy, what was hard? What was confusing?
+
+Volunteer: I suppose what was easy was just knowing that you could log in from the top right. That’s kind of standard. At the top right, you’re going to find some sort of log in thing, and then under your name and picture- you click on that, and then you can figure out what you uploaded, you’ve got a Log Out button there, and probably some other personal stuff. I saw some other stuff under there that I don’t remember right now.
+
+Volunteer: What I did find a little bit tricky was adding tags to the wallpapers. The way that you selected them was to click on a particular button- I didn’t try clicking on the icons themselves, but that’s probably something I would do, maybe with a Shift+ to group multiple ones together. Although I’m probably a little more savvy than the average computer user to know that that kind of thing might work.
+Leart: Okay.
+
+Volunteer: The other thing that I found was kind of weird was that- there might not have been a better way to implement this, but- the tags highlighted at the top of the most recent uploads page, you had to click on them to de-highlight them. That kind of threw me off for a bit, because I thought I was selecting the one I was filtering by, as opposed to turning off that particular one. But, I mean, after just checking what happened visually, it was apparent which ones were highlighted and which weren’t. Probably takes that little bit of experience to get used to the site.
+
+Leart: What would you like to be added in the future as a feature? Or anything to be removed, generally modified?
+
+Volunteer: I suppose I didn’t snoop around much, but perhaps some sort of album [feature], if that wasn’t already implemented, where you can group your uploads into particular albums. Of course, there are tags that group wallpapers which are similar to each other, but in case you want to group by other than tags. 
+
+Volunteer: I guess another thing that I didn’t really notice on this site particularly any mobile wallpapers. It looks like all of these are in standard landscape orientation, but for mobile wallpapers you would probably have some portrait-orientation wallpapers. You could probably implement some other filters for that easily as well.
+
+Leart: Okay. Thank you very much.
